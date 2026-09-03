@@ -4,7 +4,7 @@
 
 int main()  //Initializes main
 {
-    printf("bye world");  //Prints string "bye world"
+    printf("bye world");  //Prints string "bye world."
 
     return 0;   //Ends main
 }
